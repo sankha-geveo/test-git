@@ -1,0 +1,8 @@
+{
+  "settings": {
+    "dbPath": "assets.db",
+    "dbScriptsFolderPath": "./dbScripts",
+    "postExecutionScriptName": "./post_exec.sh",
+    "newContractZipFileName": "./newContractData.zip"
+  }
+}
